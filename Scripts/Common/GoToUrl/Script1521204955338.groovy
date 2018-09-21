@@ -34,23 +34,25 @@ if (!(currentUrl.equals(url))) {
 }
 
 try {
-	/* Do we need to sign in? Check so by looking for text Sign in */
-	WebUI.verifyTextPresent('Sign in', false)
+    /* Do we need to sign in? Check so by looking for text Sign in */
+    WebUI.verifyTextPresent('Sign in', false)
 
     WebUI.click(findTestObject('Login/a_Sign in'))
 
-    WebUI.setText(findTestObject('Login/input_email'), GlobalVariable.loginUsername)
+    WebUI.setText(findTestObject('Login/input_email'), loginUsername)
 
-    WebUI.setText(findTestObject('Login/input_passwd'), GlobalVariable.loginPassword)
+    WebUI.setText(findTestObject('Login/input_passwd'), loginPassword)
 
     WebUI.click(findTestObject('Login/span_Sign in'))
 
     WebUI.navigateToUrl(url)
 
     WebUI.waitForPageLoad(GlobalVariable.timeOut)
-} catch ( e ) {
-    /* Sign in does not need to be present */
+}
+catch (def e) {
+    /* Sign in does not need to be present */ 
 } 
+
 /* We should be signed in now, so verify that the text Sign out is on the page */
 WebUI.verifyTextPresent('Sign out', false)
 

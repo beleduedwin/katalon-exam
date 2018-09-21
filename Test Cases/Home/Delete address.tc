@@ -12,4 +12,46 @@
       <masked>false</masked>
       <name>alias</name>
    </variable>
+   <variable>
+      <defaultValue>'03 Rue Jose'</defaultValue>
+      <description></description>
+      <id>fdd083e9-4833-44a2-b1cf-044c3bd1a6d8</id>
+      <masked>false</masked>
+      <name>adress1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Appartement 5'</defaultValue>
+      <description></description>
+      <id>ce59beb7-d1c4-411f-a917-66642592e391</id>
+      <masked>false</masked>
+      <name>adress2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bordeaux'</defaultValue>
+      <description></description>
+      <id>8d1e909a-f156-4bf1-95fe-f56adbf9dc9f</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'33100'</defaultValue>
+      <description></description>
+      <id>24bbfc23-a8e4-41c6-972a-4d8fecfa2e4f</id>
+      <masked>false</masked>
+      <name>postcode</name>
+   </variable>
+   <variable>
+      <defaultValue>'06584699'</defaultValue>
+      <description></description>
+      <id>00887ab8-57cc-451c-b649-e41730ff1851</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'0628362899'</defaultValue>
+      <description></description>
+      <id>9b386051-3596-4605-a70a-1d2d73366bb3</id>
+      <masked>false</masked>
+      <name>phone_mobile</name>
+   </variable>
 </TestCaseEntity>

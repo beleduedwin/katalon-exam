@@ -12,4 +12,18 @@
       <masked>false</masked>
       <name>url</name>
    </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2b27919-c6f9-4dec-938d-677b123e213a</id>
+      <masked>false</masked>
+      <name>loginUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5b03dee-f6c3-4b45-ada0-adc7b7c3fca5</id>
+      <masked>false</masked>
+      <name>loginPassword</name>
+   </variable>
 </TestCaseEntity>

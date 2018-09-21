@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'edwin.beledu@lapiscine.pro'</initValue>
       <name>loginUsername</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'1Nkadokilo'</initValue>
       <name>loginPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
