@@ -9,53 +9,50 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
    <data>edwin.beledu%40lapiscine.pro 1Nkadokilo 03+Rue+Jose Appartement+5 Bordeaux 33100 06584699 0628362899 adresse+reference</data>
-   <data>beleduedwin%40yahoo.fr abc null null null null null null null</data>
-   <data>edwinbeledu%40yahoo.fr Orevoir null null null null null null null</data>
-   <data>null null null null null null null null null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>loginUsername</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>loginPassword</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>2</columnIndex>
       <name>address1</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>3</columnIndex>
       <name>adress2</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>4</columnIndex>
       <name>city</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>5</columnIndex>
       <name>postcode</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>6</columnIndex>
       <name>phone</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>7</columnIndex>
       <name>phone_mobile</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>8</columnIndex>
       <name>alias</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
